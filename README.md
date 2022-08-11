@@ -2,20 +2,20 @@
 analysis with R
 
 
-1. Defining the Question
+**1. Defining the Question
 
 a) Specifying the Data Analytic Question
 Kira Plastinina (Links to an external site.) is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups.
 
 Your findings should help inform the team in formulating the marketing and sales strategies of the brand.
 
-b) Defining the Metric for Success
+**b) Defining the Metric for Success
 
 1.Perform clustering stating insights drawn from your analysis and visualizations.
 
 2.Upon implementation, provide comparisons between the approaches learned this week i.e. K-Means clustering vs Hierarchical clustering highlighting the strengths and limitations of each approach in the context of your analysis.
 
-c) Understanding the context
+**c) Understanding the context
 
 Perform clustering for the give data set (http://bit.ly/EcommerceCustomersDataset)
 
@@ -33,7 +33,7 @@ Perform clustering for the give data set (http://bit.ly/EcommerceCustomersDatase
 
 -The dataset also includes the operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
-d) Experimental design taken
+**d) Experimental design taken
 
 1.Problem Definition
 
@@ -51,7 +51,7 @@ d) Experimental design taken
 
 8.Follow up Questions
 
-e) Appropriateness of the available data
+**e) Appropriateness of the available data
 
 The dataset has appropriate columns and rows to answer the questions. The data is relevant for our analysis.
 
